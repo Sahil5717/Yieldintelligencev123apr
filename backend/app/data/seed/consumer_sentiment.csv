@@ -1,0 +1,301 @@
+month,region,index_name,value,index_source,change_vs_prior,notes
+2022-01,North America,Consumer_Confidence_Index,100.0,synthetic_baseline,,Synthetic regional sentiment baseline for prototype use
+2022-02,North America,Consumer_Confidence_Index,100.7,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2022-03,North America,Consumer_Confidence_Index,100.3,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2022-04,North America,Consumer_Confidence_Index,101.0,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2022-05,North America,Consumer_Confidence_Index,101.4,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2022-06,North America,Consumer_Confidence_Index,102.5,synthetic_baseline,+1.1,Synthetic regional sentiment baseline for prototype use
+2022-07,North America,Consumer_Confidence_Index,102.0,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2022-08,North America,Consumer_Confidence_Index,101.3,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2022-09,North America,Consumer_Confidence_Index,100.5,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2022-10,North America,Consumer_Confidence_Index,99.8,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2022-11,North America,Consumer_Confidence_Index,100.0,synthetic_baseline,+0.2,Synthetic regional sentiment baseline for prototype use
+2022-12,North America,Consumer_Confidence_Index,100.1,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2023-01,North America,Consumer_Confidence_Index,100.7,synthetic_baseline,+0.6,Synthetic regional sentiment baseline for prototype use
+2023-02,North America,Consumer_Confidence_Index,101.4,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2023-03,North America,Consumer_Confidence_Index,102.2,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2023-04,North America,Consumer_Confidence_Index,102.9,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2023-05,North America,Consumer_Confidence_Index,103.3,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2023-06,North America,Consumer_Confidence_Index,103.2,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2023-07,North America,Consumer_Confidence_Index,102.7,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2023-08,North America,Consumer_Confidence_Index,102.0,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2023-09,North America,Consumer_Confidence_Index,101.2,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2023-10,North America,Consumer_Confidence_Index,100.5,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2023-11,North America,Consumer_Confidence_Index,100.7,synthetic_baseline,+0.2,Synthetic regional sentiment baseline for prototype use
+2023-12,North America,Consumer_Confidence_Index,100.8,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2024-01,North America,Consumer_Confidence_Index,101.4,synthetic_baseline,+0.6,Synthetic regional sentiment baseline for prototype use
+2024-02,North America,Consumer_Confidence_Index,102.1,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2024-03,North America,Consumer_Confidence_Index,102.9,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2024-04,North America,Consumer_Confidence_Index,103.6,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2024-05,North America,Consumer_Confidence_Index,104.0,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2024-06,North America,Consumer_Confidence_Index,103.9,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2024-07,North America,Consumer_Confidence_Index,103.4,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2024-08,North America,Consumer_Confidence_Index,102.7,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2024-09,North America,Consumer_Confidence_Index,101.9,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2024-10,North America,Consumer_Confidence_Index,101.2,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2024-11,North America,Consumer_Confidence_Index,101.4,synthetic_baseline,+0.2,Synthetic regional sentiment baseline for prototype use
+2024-12,North America,Consumer_Confidence_Index,101.5,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2025-01,North America,Consumer_Confidence_Index,102.1,synthetic_baseline,+0.6,Synthetic regional sentiment baseline for prototype use
+2025-02,North America,Consumer_Confidence_Index,102.8,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2025-03,North America,Consumer_Confidence_Index,103.6,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2025-04,North America,Consumer_Confidence_Index,104.3,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2025-05,North America,Consumer_Confidence_Index,104.7,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2025-06,North America,Consumer_Confidence_Index,104.6,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2025-07,North America,Consumer_Confidence_Index,104.1,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2025-08,North America,Consumer_Confidence_Index,103.4,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2025-09,North America,Consumer_Confidence_Index,102.6,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2025-10,North America,Consumer_Confidence_Index,101.9,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2025-11,North America,Consumer_Confidence_Index,102.1,synthetic_baseline,+0.2,Synthetic regional sentiment baseline for prototype use
+2025-12,North America,Consumer_Confidence_Index,102.2,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2026-01,North America,Consumer_Confidence_Index,102.8,synthetic_baseline,+0.6,Synthetic regional sentiment baseline for prototype use
+2026-02,North America,Consumer_Confidence_Index,103.5,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2026-03,North America,Consumer_Confidence_Index,104.3,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2026-04,North America,Consumer_Confidence_Index,105.0,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2026-05,North America,Consumer_Confidence_Index,105.4,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2026-06,North America,Consumer_Confidence_Index,105.3,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2026-07,North America,Consumer_Confidence_Index,104.8,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2026-08,North America,Consumer_Confidence_Index,104.1,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2026-09,North America,Consumer_Confidence_Index,103.3,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2026-10,North America,Consumer_Confidence_Index,102.6,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2026-11,North America,Consumer_Confidence_Index,102.8,synthetic_baseline,+0.2,Synthetic regional sentiment baseline for prototype use
+2026-12,North America,Consumer_Confidence_Index,102.9,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2022-01,Europe,Consumer_Confidence_Index,95.0,synthetic_baseline,,Synthetic regional sentiment baseline for prototype use
+2022-02,Europe,Consumer_Confidence_Index,95.7,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2022-03,Europe,Consumer_Confidence_Index,95.3,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2022-04,Europe,Consumer_Confidence_Index,96.0,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2022-05,Europe,Consumer_Confidence_Index,96.4,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2022-06,Europe,Consumer_Confidence_Index,97.5,synthetic_baseline,+1.1,Synthetic regional sentiment baseline for prototype use
+2022-07,Europe,Consumer_Confidence_Index,97.0,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2022-08,Europe,Consumer_Confidence_Index,96.3,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2022-09,Europe,Consumer_Confidence_Index,95.5,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2022-10,Europe,Consumer_Confidence_Index,94.8,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2022-11,Europe,Consumer_Confidence_Index,94.4,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2022-12,Europe,Consumer_Confidence_Index,94.5,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2023-01,Europe,Consumer_Confidence_Index,94.7,synthetic_baseline,+0.2,Synthetic regional sentiment baseline for prototype use
+2023-02,Europe,Consumer_Confidence_Index,95.4,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2023-03,Europe,Consumer_Confidence_Index,96.2,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2023-04,Europe,Consumer_Confidence_Index,97.9,synthetic_baseline,+1.7,Synthetic regional sentiment baseline for prototype use
+2023-05,Europe,Consumer_Confidence_Index,98.3,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2023-06,Europe,Consumer_Confidence_Index,98.2,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2023-07,Europe,Consumer_Confidence_Index,97.7,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2023-08,Europe,Consumer_Confidence_Index,97.0,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2023-09,Europe,Consumer_Confidence_Index,96.2,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2023-10,Europe,Consumer_Confidence_Index,95.5,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2023-11,Europe,Consumer_Confidence_Index,95.1,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2023-12,Europe,Consumer_Confidence_Index,95.2,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2024-01,Europe,Consumer_Confidence_Index,96.4,synthetic_baseline,+1.2,Synthetic regional sentiment baseline for prototype use
+2024-02,Europe,Consumer_Confidence_Index,97.1,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2024-03,Europe,Consumer_Confidence_Index,97.9,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2024-04,Europe,Consumer_Confidence_Index,98.6,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2024-05,Europe,Consumer_Confidence_Index,99.0,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2024-06,Europe,Consumer_Confidence_Index,98.9,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2024-07,Europe,Consumer_Confidence_Index,98.4,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2024-08,Europe,Consumer_Confidence_Index,97.7,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2024-09,Europe,Consumer_Confidence_Index,96.9,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2024-10,Europe,Consumer_Confidence_Index,96.2,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2024-11,Europe,Consumer_Confidence_Index,95.8,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2024-12,Europe,Consumer_Confidence_Index,95.9,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2025-01,Europe,Consumer_Confidence_Index,97.1,synthetic_baseline,+1.2,Synthetic regional sentiment baseline for prototype use
+2025-02,Europe,Consumer_Confidence_Index,97.8,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2025-03,Europe,Consumer_Confidence_Index,98.6,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2025-04,Europe,Consumer_Confidence_Index,99.3,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2025-05,Europe,Consumer_Confidence_Index,99.7,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2025-06,Europe,Consumer_Confidence_Index,99.6,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2025-07,Europe,Consumer_Confidence_Index,99.1,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2025-08,Europe,Consumer_Confidence_Index,98.4,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2025-09,Europe,Consumer_Confidence_Index,97.6,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2025-10,Europe,Consumer_Confidence_Index,96.9,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2025-11,Europe,Consumer_Confidence_Index,96.5,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2025-12,Europe,Consumer_Confidence_Index,96.6,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2026-01,Europe,Consumer_Confidence_Index,97.8,synthetic_baseline,+1.2,Synthetic regional sentiment baseline for prototype use
+2026-02,Europe,Consumer_Confidence_Index,98.5,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2026-03,Europe,Consumer_Confidence_Index,99.3,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2026-04,Europe,Consumer_Confidence_Index,100.0,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2026-05,Europe,Consumer_Confidence_Index,100.4,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2026-06,Europe,Consumer_Confidence_Index,100.3,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2026-07,Europe,Consumer_Confidence_Index,99.8,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2026-08,Europe,Consumer_Confidence_Index,99.1,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2026-09,Europe,Consumer_Confidence_Index,98.3,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2026-10,Europe,Consumer_Confidence_Index,97.6,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2026-11,Europe,Consumer_Confidence_Index,97.2,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2026-12,Europe,Consumer_Confidence_Index,97.3,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2022-01,APAC,Consumer_Confidence_Index,102.0,synthetic_baseline,,Synthetic regional sentiment baseline for prototype use
+2022-02,APAC,Consumer_Confidence_Index,102.7,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2022-03,APAC,Consumer_Confidence_Index,102.3,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2022-04,APAC,Consumer_Confidence_Index,103.0,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2022-05,APAC,Consumer_Confidence_Index,103.4,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2022-06,APAC,Consumer_Confidence_Index,104.5,synthetic_baseline,+1.1,Synthetic regional sentiment baseline for prototype use
+2022-07,APAC,Consumer_Confidence_Index,104.0,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2022-08,APAC,Consumer_Confidence_Index,103.3,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2022-09,APAC,Consumer_Confidence_Index,102.5,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2022-10,APAC,Consumer_Confidence_Index,102.6,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2022-11,APAC,Consumer_Confidence_Index,102.2,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2022-12,APAC,Consumer_Confidence_Index,102.3,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2023-01,APAC,Consumer_Confidence_Index,102.7,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2023-02,APAC,Consumer_Confidence_Index,103.4,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2023-03,APAC,Consumer_Confidence_Index,104.2,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2023-04,APAC,Consumer_Confidence_Index,104.9,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2023-05,APAC,Consumer_Confidence_Index,105.3,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2023-06,APAC,Consumer_Confidence_Index,105.2,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2023-07,APAC,Consumer_Confidence_Index,104.7,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2023-08,APAC,Consumer_Confidence_Index,104.0,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2023-09,APAC,Consumer_Confidence_Index,103.2,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2023-10,APAC,Consumer_Confidence_Index,103.3,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2023-11,APAC,Consumer_Confidence_Index,102.9,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2023-12,APAC,Consumer_Confidence_Index,103.0,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2024-01,APAC,Consumer_Confidence_Index,103.4,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2024-02,APAC,Consumer_Confidence_Index,104.1,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2024-03,APAC,Consumer_Confidence_Index,104.9,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2024-04,APAC,Consumer_Confidence_Index,105.6,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2024-05,APAC,Consumer_Confidence_Index,106.0,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2024-06,APAC,Consumer_Confidence_Index,105.9,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2024-07,APAC,Consumer_Confidence_Index,105.4,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2024-08,APAC,Consumer_Confidence_Index,104.7,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2024-09,APAC,Consumer_Confidence_Index,103.9,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2024-10,APAC,Consumer_Confidence_Index,104.0,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2024-11,APAC,Consumer_Confidence_Index,103.6,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2024-12,APAC,Consumer_Confidence_Index,103.7,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2025-01,APAC,Consumer_Confidence_Index,104.1,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2025-02,APAC,Consumer_Confidence_Index,104.8,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2025-03,APAC,Consumer_Confidence_Index,105.6,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2025-04,APAC,Consumer_Confidence_Index,106.3,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2025-05,APAC,Consumer_Confidence_Index,106.7,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2025-06,APAC,Consumer_Confidence_Index,106.6,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2025-07,APAC,Consumer_Confidence_Index,106.1,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2025-08,APAC,Consumer_Confidence_Index,105.4,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2025-09,APAC,Consumer_Confidence_Index,104.6,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2025-10,APAC,Consumer_Confidence_Index,104.7,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2025-11,APAC,Consumer_Confidence_Index,104.3,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2025-12,APAC,Consumer_Confidence_Index,104.4,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2026-01,APAC,Consumer_Confidence_Index,104.8,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2026-02,APAC,Consumer_Confidence_Index,105.5,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2026-03,APAC,Consumer_Confidence_Index,106.3,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2026-04,APAC,Consumer_Confidence_Index,107.0,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2026-05,APAC,Consumer_Confidence_Index,107.4,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2026-06,APAC,Consumer_Confidence_Index,107.3,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2026-07,APAC,Consumer_Confidence_Index,106.8,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2026-08,APAC,Consumer_Confidence_Index,106.1,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2026-09,APAC,Consumer_Confidence_Index,105.3,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2026-10,APAC,Consumer_Confidence_Index,105.4,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2026-11,APAC,Consumer_Confidence_Index,105.0,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2026-12,APAC,Consumer_Confidence_Index,105.1,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2022-01,LATAM,Consumer_Confidence_Index,91.4,synthetic_baseline,,Synthetic regional sentiment baseline for prototype use
+2022-02,LATAM,Consumer_Confidence_Index,92.1,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2022-03,LATAM,Consumer_Confidence_Index,91.3,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2022-04,LATAM,Consumer_Confidence_Index,92.0,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2022-05,LATAM,Consumer_Confidence_Index,92.4,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2022-06,LATAM,Consumer_Confidence_Index,93.5,synthetic_baseline,+1.1,Synthetic regional sentiment baseline for prototype use
+2022-07,LATAM,Consumer_Confidence_Index,93.0,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2022-08,LATAM,Consumer_Confidence_Index,92.3,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2022-09,LATAM,Consumer_Confidence_Index,91.5,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2022-10,LATAM,Consumer_Confidence_Index,90.8,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2022-11,LATAM,Consumer_Confidence_Index,90.4,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2022-12,LATAM,Consumer_Confidence_Index,90.9,synthetic_baseline,+0.5,Synthetic regional sentiment baseline for prototype use
+2023-01,LATAM,Consumer_Confidence_Index,92.1,synthetic_baseline,+1.2,Synthetic regional sentiment baseline for prototype use
+2023-02,LATAM,Consumer_Confidence_Index,92.8,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2023-03,LATAM,Consumer_Confidence_Index,93.2,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2023-04,LATAM,Consumer_Confidence_Index,93.9,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2023-05,LATAM,Consumer_Confidence_Index,94.3,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2023-06,LATAM,Consumer_Confidence_Index,94.2,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2023-07,LATAM,Consumer_Confidence_Index,93.7,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2023-08,LATAM,Consumer_Confidence_Index,93.0,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2023-09,LATAM,Consumer_Confidence_Index,92.2,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2023-10,LATAM,Consumer_Confidence_Index,91.5,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2023-11,LATAM,Consumer_Confidence_Index,91.1,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2023-12,LATAM,Consumer_Confidence_Index,91.6,synthetic_baseline,+0.5,Synthetic regional sentiment baseline for prototype use
+2024-01,LATAM,Consumer_Confidence_Index,92.8,synthetic_baseline,+1.2,Synthetic regional sentiment baseline for prototype use
+2024-02,LATAM,Consumer_Confidence_Index,93.5,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2024-03,LATAM,Consumer_Confidence_Index,93.9,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2024-04,LATAM,Consumer_Confidence_Index,94.6,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2024-05,LATAM,Consumer_Confidence_Index,95.0,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2024-06,LATAM,Consumer_Confidence_Index,94.9,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2024-07,LATAM,Consumer_Confidence_Index,94.4,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2024-08,LATAM,Consumer_Confidence_Index,93.7,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2024-09,LATAM,Consumer_Confidence_Index,92.9,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2024-10,LATAM,Consumer_Confidence_Index,92.2,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2024-11,LATAM,Consumer_Confidence_Index,91.8,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2024-12,LATAM,Consumer_Confidence_Index,92.3,synthetic_baseline,+0.5,Synthetic regional sentiment baseline for prototype use
+2025-01,LATAM,Consumer_Confidence_Index,93.5,synthetic_baseline,+1.2,Synthetic regional sentiment baseline for prototype use
+2025-02,LATAM,Consumer_Confidence_Index,94.2,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2025-03,LATAM,Consumer_Confidence_Index,94.6,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2025-04,LATAM,Consumer_Confidence_Index,95.3,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2025-05,LATAM,Consumer_Confidence_Index,95.7,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2025-06,LATAM,Consumer_Confidence_Index,95.6,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2025-07,LATAM,Consumer_Confidence_Index,95.1,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2025-08,LATAM,Consumer_Confidence_Index,94.4,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2025-09,LATAM,Consumer_Confidence_Index,93.6,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2025-10,LATAM,Consumer_Confidence_Index,92.9,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2025-11,LATAM,Consumer_Confidence_Index,92.5,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2025-12,LATAM,Consumer_Confidence_Index,93.0,synthetic_baseline,+0.5,Synthetic regional sentiment baseline for prototype use
+2026-01,LATAM,Consumer_Confidence_Index,94.2,synthetic_baseline,+1.2,Synthetic regional sentiment baseline for prototype use
+2026-02,LATAM,Consumer_Confidence_Index,94.9,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2026-03,LATAM,Consumer_Confidence_Index,95.3,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2026-04,LATAM,Consumer_Confidence_Index,96.0,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2026-05,LATAM,Consumer_Confidence_Index,96.4,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2026-06,LATAM,Consumer_Confidence_Index,96.3,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2026-07,LATAM,Consumer_Confidence_Index,95.8,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2026-08,LATAM,Consumer_Confidence_Index,95.1,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2026-09,LATAM,Consumer_Confidence_Index,94.3,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2026-10,LATAM,Consumer_Confidence_Index,93.6,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2026-11,LATAM,Consumer_Confidence_Index,93.2,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2026-12,LATAM,Consumer_Confidence_Index,93.7,synthetic_baseline,+0.5,Synthetic regional sentiment baseline for prototype use
+2022-01,MEA,Consumer_Confidence_Index,93.0,synthetic_baseline,,Synthetic regional sentiment baseline for prototype use
+2022-02,MEA,Consumer_Confidence_Index,93.7,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2022-03,MEA,Consumer_Confidence_Index,93.3,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2022-04,MEA,Consumer_Confidence_Index,94.0,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2022-05,MEA,Consumer_Confidence_Index,94.4,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2022-06,MEA,Consumer_Confidence_Index,95.5,synthetic_baseline,+1.1,Synthetic regional sentiment baseline for prototype use
+2022-07,MEA,Consumer_Confidence_Index,95.0,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2022-08,MEA,Consumer_Confidence_Index,94.3,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2022-09,MEA,Consumer_Confidence_Index,93.5,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2022-10,MEA,Consumer_Confidence_Index,92.8,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2022-11,MEA,Consumer_Confidence_Index,92.4,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2022-12,MEA,Consumer_Confidence_Index,92.5,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2023-01,MEA,Consumer_Confidence_Index,93.7,synthetic_baseline,+1.2,Synthetic regional sentiment baseline for prototype use
+2023-02,MEA,Consumer_Confidence_Index,94.4,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2023-03,MEA,Consumer_Confidence_Index,95.2,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2023-04,MEA,Consumer_Confidence_Index,95.9,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2023-05,MEA,Consumer_Confidence_Index,96.3,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2023-06,MEA,Consumer_Confidence_Index,96.2,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2023-07,MEA,Consumer_Confidence_Index,95.7,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2023-08,MEA,Consumer_Confidence_Index,95.0,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2023-09,MEA,Consumer_Confidence_Index,94.2,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2023-10,MEA,Consumer_Confidence_Index,93.5,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2023-11,MEA,Consumer_Confidence_Index,93.1,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2023-12,MEA,Consumer_Confidence_Index,93.2,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2024-01,MEA,Consumer_Confidence_Index,94.4,synthetic_baseline,+1.2,Synthetic regional sentiment baseline for prototype use
+2024-02,MEA,Consumer_Confidence_Index,95.1,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2024-03,MEA,Consumer_Confidence_Index,95.9,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2024-04,MEA,Consumer_Confidence_Index,96.6,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2024-05,MEA,Consumer_Confidence_Index,97.0,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2024-06,MEA,Consumer_Confidence_Index,96.9,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2024-07,MEA,Consumer_Confidence_Index,96.4,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2024-08,MEA,Consumer_Confidence_Index,95.7,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2024-09,MEA,Consumer_Confidence_Index,94.9,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2024-10,MEA,Consumer_Confidence_Index,94.2,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2024-11,MEA,Consumer_Confidence_Index,93.8,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2024-12,MEA,Consumer_Confidence_Index,93.9,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2025-01,MEA,Consumer_Confidence_Index,95.1,synthetic_baseline,+1.2,Synthetic regional sentiment baseline for prototype use
+2025-02,MEA,Consumer_Confidence_Index,95.8,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2025-03,MEA,Consumer_Confidence_Index,96.6,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2025-04,MEA,Consumer_Confidence_Index,97.3,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2025-05,MEA,Consumer_Confidence_Index,97.7,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2025-06,MEA,Consumer_Confidence_Index,97.6,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2025-07,MEA,Consumer_Confidence_Index,97.1,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2025-08,MEA,Consumer_Confidence_Index,96.4,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2025-09,MEA,Consumer_Confidence_Index,95.6,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2025-10,MEA,Consumer_Confidence_Index,94.9,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2025-11,MEA,Consumer_Confidence_Index,94.5,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2025-12,MEA,Consumer_Confidence_Index,94.6,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use
+2026-01,MEA,Consumer_Confidence_Index,95.8,synthetic_baseline,+1.2,Synthetic regional sentiment baseline for prototype use
+2026-02,MEA,Consumer_Confidence_Index,96.5,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2026-03,MEA,Consumer_Confidence_Index,97.3,synthetic_baseline,+0.8,Synthetic regional sentiment baseline for prototype use
+2026-04,MEA,Consumer_Confidence_Index,98.0,synthetic_baseline,+0.7,Synthetic regional sentiment baseline for prototype use
+2026-05,MEA,Consumer_Confidence_Index,98.4,synthetic_baseline,+0.4,Synthetic regional sentiment baseline for prototype use
+2026-06,MEA,Consumer_Confidence_Index,98.3,synthetic_baseline,-0.1,Synthetic regional sentiment baseline for prototype use
+2026-07,MEA,Consumer_Confidence_Index,97.8,synthetic_baseline,-0.5,Synthetic regional sentiment baseline for prototype use
+2026-08,MEA,Consumer_Confidence_Index,97.1,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2026-09,MEA,Consumer_Confidence_Index,96.3,synthetic_baseline,-0.8,Synthetic regional sentiment baseline for prototype use
+2026-10,MEA,Consumer_Confidence_Index,95.6,synthetic_baseline,-0.7,Synthetic regional sentiment baseline for prototype use
+2026-11,MEA,Consumer_Confidence_Index,95.2,synthetic_baseline,-0.4,Synthetic regional sentiment baseline for prototype use
+2026-12,MEA,Consumer_Confidence_Index,95.3,synthetic_baseline,+0.1,Synthetic regional sentiment baseline for prototype use

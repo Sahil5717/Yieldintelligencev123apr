@@ -1,0 +1,46 @@
+event_name,start_date,end_date,regions,category,significance,demand_lift_category,notes
+New Year / Post-Holiday,2022-01-01,2022-01-10,GLOBAL,seasonal,major,mixed,Post-holiday demand reset; travel and clearance activity elevated
+Valentine's Day,2022-02-10,2022-02-14,GLOBAL,commercial,moderate,medium,"Short uplift in gifting, beauty, dining and premium categories"
+Ramadan / Eid Window,2022-04-02,2022-05-05,MEA;APAC,religious,major,high,"Apparel, gifting and food demand rises through fasting and celebration period"
+Easter Period,2022-04-15,2022-04-18,NA;EU;LATAM,religious,moderate,medium,"Holiday travel, grocery, gifting and family retail uplift"
+Summer Travel Peak,2022-06-15,2022-08-20,NA;EU,seasonal,major,high,"Travel, leisure, QSR and luggage categories strengthen"
+Back to School,2022-08-10,2022-09-15,NA;EU,commercial,major,high,"Apparel, electronics, stationery and family retail uplift"
+Singles Day,2022-11-11,2022-11-11,APAC,commercial,major,very_high,E-commerce and electronics demand spike led by China/APAC
+Black Friday / Cyber Monday,2022-11-25,2022-11-28,NA;EU;APAC,commercial,major,very_high,"Peak promotional demand for electronics, apparel and home"
+Christmas / Year End,2022-12-20,2022-12-31,NA;EU;LATAM;APAC,seasonal,major,very_high,"Peak gifting, travel, food and premium retail window"
+New Year / Post-Holiday,2023-01-01,2023-01-10,GLOBAL,seasonal,major,mixed,Post-holiday demand reset; travel and clearance activity elevated
+Valentine's Day,2023-02-10,2023-02-14,GLOBAL,commercial,moderate,medium,"Short uplift in gifting, beauty, dining and premium categories"
+Ramadan / Eid Window,2023-03-23,2023-04-23,MEA;APAC,religious,major,high,"Apparel, gifting and food demand rises through fasting and celebration period"
+Easter Period,2023-04-07,2023-04-10,NA;EU;LATAM,religious,moderate,medium,"Holiday travel, grocery, gifting and family retail uplift"
+Summer Travel Peak,2023-06-15,2023-08-20,NA;EU,seasonal,major,high,"Travel, leisure, QSR and luggage categories strengthen"
+Back to School,2023-08-10,2023-09-15,NA;EU,commercial,major,high,"Apparel, electronics, stationery and family retail uplift"
+Singles Day,2023-11-11,2023-11-11,APAC,commercial,major,very_high,E-commerce and electronics demand spike led by China/APAC
+Black Friday / Cyber Monday,2023-11-24,2023-11-27,NA;EU;APAC,commercial,major,very_high,"Peak promotional demand for electronics, apparel and home"
+Christmas / Year End,2023-12-20,2023-12-31,NA;EU;LATAM;APAC,seasonal,major,very_high,"Peak gifting, travel, food and premium retail window"
+New Year / Post-Holiday,2024-01-01,2024-01-10,GLOBAL,seasonal,major,mixed,Post-holiday demand reset; travel and clearance activity elevated
+Valentine's Day,2024-02-10,2024-02-14,GLOBAL,commercial,moderate,medium,"Short uplift in gifting, beauty, dining and premium categories"
+Ramadan / Eid Window,2024-03-10,2024-04-12,MEA;APAC,religious,major,high,"Apparel, gifting and food demand rises through fasting and celebration period"
+Easter Period,2024-03-29,2024-04-01,NA;EU;LATAM,religious,moderate,medium,"Holiday travel, grocery, gifting and family retail uplift"
+Summer Travel Peak,2024-06-15,2024-08-20,NA;EU,seasonal,major,high,"Travel, leisure, QSR and luggage categories strengthen"
+Back to School,2024-08-10,2024-09-15,NA;EU,commercial,major,high,"Apparel, electronics, stationery and family retail uplift"
+Singles Day,2024-11-11,2024-11-11,APAC,commercial,major,very_high,E-commerce and electronics demand spike led by China/APAC
+Black Friday / Cyber Monday,2024-11-29,2024-12-02,NA;EU;APAC,commercial,major,very_high,"Peak promotional demand for electronics, apparel and home"
+Christmas / Year End,2024-12-20,2024-12-31,NA;EU;LATAM;APAC,seasonal,major,very_high,"Peak gifting, travel, food and premium retail window"
+New Year / Post-Holiday,2025-01-01,2025-01-10,GLOBAL,seasonal,major,mixed,Post-holiday demand reset; travel and clearance activity elevated
+Valentine's Day,2025-02-10,2025-02-14,GLOBAL,commercial,moderate,medium,"Short uplift in gifting, beauty, dining and premium categories"
+Ramadan / Eid Window,2025-02-28,2025-04-01,MEA;APAC,religious,major,high,"Apparel, gifting and food demand rises through fasting and celebration period"
+Easter Period,2025-04-18,2025-04-21,NA;EU;LATAM,religious,moderate,medium,"Holiday travel, grocery, gifting and family retail uplift"
+Summer Travel Peak,2025-06-15,2025-08-20,NA;EU,seasonal,major,high,"Travel, leisure, QSR and luggage categories strengthen"
+Back to School,2025-08-10,2025-09-15,NA;EU,commercial,major,high,"Apparel, electronics, stationery and family retail uplift"
+Singles Day,2025-11-11,2025-11-11,APAC,commercial,major,very_high,E-commerce and electronics demand spike led by China/APAC
+Black Friday / Cyber Monday,2025-11-28,2025-12-01,NA;EU;APAC,commercial,major,very_high,"Peak promotional demand for electronics, apparel and home"
+Christmas / Year End,2025-12-20,2025-12-31,NA;EU;LATAM;APAC,seasonal,major,very_high,"Peak gifting, travel, food and premium retail window"
+New Year / Post-Holiday,2026-01-01,2026-01-10,GLOBAL,seasonal,major,mixed,Post-holiday demand reset; travel and clearance activity elevated
+Valentine's Day,2026-02-10,2026-02-14,GLOBAL,commercial,moderate,medium,"Short uplift in gifting, beauty, dining and premium categories"
+Ramadan / Eid Window,2026-02-18,2026-03-21,MEA;APAC,religious,major,high,"Apparel, gifting and food demand rises through fasting and celebration period"
+Easter Period,2026-04-03,2026-04-06,NA;EU;LATAM,religious,moderate,medium,"Holiday travel, grocery, gifting and family retail uplift"
+Summer Travel Peak,2026-06-15,2026-08-20,NA;EU,seasonal,major,high,"Travel, leisure, QSR and luggage categories strengthen"
+Back to School,2026-08-10,2026-09-15,NA;EU,commercial,major,high,"Apparel, electronics, stationery and family retail uplift"
+Singles Day,2026-11-11,2026-11-11,APAC,commercial,major,very_high,E-commerce and electronics demand spike led by China/APAC
+Black Friday / Cyber Monday,2026-11-27,2026-11-30,NA;EU;APAC,commercial,major,very_high,"Peak promotional demand for electronics, apparel and home"
+Christmas / Year End,2026-12-20,2026-12-31,NA;EU;LATAM;APAC,seasonal,major,very_high,"Peak gifting, travel, food and premium retail window"

@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+
+# Virtual envs
+.venv/
+
+# Databases (regenerated on startup)
+*.db
+*.sqlite
+*.sqlite3
+
+# Node
+frontend/node_modules/
+frontend/dist/
+backend/static/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# MMM artifacts (produced locally / at deploy time)
+backend/app/data/artifacts/*.nc
+# Keep the synthetic summary checked in as default
+!backend/app/data/artifacts/mmm_summary.json
+
+# Logs
+*.log
+
+# Misc
+.pytest_cache/
+.coverage
+dist/
+build/
+*.egg-info/

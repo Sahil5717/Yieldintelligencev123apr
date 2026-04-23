@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Plus Jakarta Sans", system-ui, sans-serif;
+    color: #0f1535;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  body {
+    background-color: #f5f6fa;
+    margin: 0;
+  }
+  /* Ensure serif italic numbers render with Fraunces */
+  .font-serif {
+    font-family: "Fraunces", Georgia, serif;
+  }
+}
+
+@layer components {
+  /* "Money" — italic serif, used for all dollar values in hero/KPIs */
+  .money {
+    @apply font-serif italic font-semibold tabular-nums;
+    letter-spacing: -0.01em;
+  }
+  .money-amber {
+    @apply money text-amber-deep;
+  }
+  .money-green {
+    @apply money text-revenue;
+  }
+
+  /* Pill/tag */
+  .pill {
+    @apply inline-block text-[9px] px-[5px] py-[1px] rounded-sm font-bold tracking-wider uppercase;
+  }
+
+  /* Card surface */
+  .card {
+    @apply bg-white border border-ash-200 rounded-lg;
+  }
+
+  /* Section heading */
+  .section-title {
+    @apply font-serif font-medium text-[15px] text-ink;
+    letter-spacing: -0.005em;
+  }
+
+  /* Rationale arrow */
+  .why::before {
+    content: "→ ";
+    color: #b5bacb;
+    font-style: normal;
+  }
+
+  /* Scrollbar polish for overlays */
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: #d8dce8 transparent;
+  }
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background: #d8dce8;
+    border-radius: 4px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+}

@@ -1,0 +1,31 @@
+holiday_name,date,type,regions,commerce_impact,notes
+New Year's Day,2022-01-01,global_or_common,GLOBAL,medium,Broad closure and reset effects across markets
+Labour Day / May Day,2022-05-01,common_public_holiday,EU;LATAM;APAC,low,Public holiday with localized trading impact
+US Independence Day,2022-07-04,national,NA,medium,"Travel, grocery and promotional uplift around holiday"
+Golden Week Window,2022-10-01,national_cluster,APAC,high,Strong travel and consumer demand in affected APAC markets
+Thanksgiving,2022-11-24,national,NA,high,"Travel, food and shopping demand uplift entering BFCM period"
+Christmas Day,2022-12-25,global_or_common,GLOBAL,high,Broad demand and operating pattern shifts in many markets
+New Year's Day,2023-01-01,global_or_common,GLOBAL,medium,Broad closure and reset effects across markets
+Labour Day / May Day,2023-05-01,common_public_holiday,EU;LATAM;APAC,low,Public holiday with localized trading impact
+US Independence Day,2023-07-04,national,NA,medium,"Travel, grocery and promotional uplift around holiday"
+Golden Week Window,2023-10-01,national_cluster,APAC,high,Strong travel and consumer demand in affected APAC markets
+Thanksgiving,2023-11-23,national,NA,high,"Travel, food and shopping demand uplift entering BFCM period"
+Christmas Day,2023-12-25,global_or_common,GLOBAL,high,Broad demand and operating pattern shifts in many markets
+New Year's Day,2024-01-01,global_or_common,GLOBAL,medium,Broad closure and reset effects across markets
+Labour Day / May Day,2024-05-01,common_public_holiday,EU;LATAM;APAC,low,Public holiday with localized trading impact
+US Independence Day,2024-07-04,national,NA,medium,"Travel, grocery and promotional uplift around holiday"
+Golden Week Window,2024-10-01,national_cluster,APAC,high,Strong travel and consumer demand in affected APAC markets
+Thanksgiving,2024-11-28,national,NA,high,"Travel, food and shopping demand uplift entering BFCM period"
+Christmas Day,2024-12-25,global_or_common,GLOBAL,high,Broad demand and operating pattern shifts in many markets
+New Year's Day,2025-01-01,global_or_common,GLOBAL,medium,Broad closure and reset effects across markets
+Labour Day / May Day,2025-05-01,common_public_holiday,EU;LATAM;APAC,low,Public holiday with localized trading impact
+US Independence Day,2025-07-04,national,NA,medium,"Travel, grocery and promotional uplift around holiday"
+Golden Week Window,2025-10-01,national_cluster,APAC,high,Strong travel and consumer demand in affected APAC markets
+Thanksgiving,2025-11-27,national,NA,high,"Travel, food and shopping demand uplift entering BFCM period"
+Christmas Day,2025-12-25,global_or_common,GLOBAL,high,Broad demand and operating pattern shifts in many markets
+New Year's Day,2026-01-01,global_or_common,GLOBAL,medium,Broad closure and reset effects across markets
+Labour Day / May Day,2026-05-01,common_public_holiday,EU;LATAM;APAC,low,Public holiday with localized trading impact
+US Independence Day,2026-07-04,national,NA,medium,"Travel, grocery and promotional uplift around holiday"
+Golden Week Window,2026-10-01,national_cluster,APAC,high,Strong travel and consumer demand in affected APAC markets
+Thanksgiving,2026-11-26,national,NA,high,"Travel, food and shopping demand uplift entering BFCM period"
+Christmas Day,2026-12-25,global_or_common,GLOBAL,high,Broad demand and operating pattern shifts in many markets

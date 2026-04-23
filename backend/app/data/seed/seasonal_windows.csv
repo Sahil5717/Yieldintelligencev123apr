@@ -1,0 +1,41 @@
+region,year,start_date,end_date,season_window,intensity,notes
+North America,2022,2022-01-01,2022-03-15,winter,normal,Seasonal winter demand and mobility pattern
+North America,2022,2022-06-15,2022-08-31,summer,normal,Travel and outdoor activity peak
+Europe,2022,2022-01-01,2022-03-10,winter,normal,Winter retail and travel pattern
+Europe,2022,2022-06-10,2022-08-31,summer,normal,Cross-border holiday travel peak
+APAC,2022,2022-06-01,2022-09-15,monsoon_or_wet,variable,Wet-season mobility and logistics sensitivity
+APAC,2022,2022-11-01,2022-12-31,year_end_peak,high,E-commerce and gifting peak season
+LATAM,2022,2022-12-01,2023-02-15,holiday_summer,high,Summer vacation and festive demand window
+MEA,2022,2022-03-01,2022-04-30,ramadan_eid,high,Religious-calendar-linked demand concentration
+North America,2023,2023-01-01,2023-03-15,winter,normal,Seasonal winter demand and mobility pattern
+North America,2023,2023-06-15,2023-08-31,summer,normal,Travel and outdoor activity peak
+Europe,2023,2023-01-01,2023-03-10,winter,normal,Winter retail and travel pattern
+Europe,2023,2023-06-10,2023-08-31,summer,normal,Cross-border holiday travel peak
+APAC,2023,2023-06-01,2023-09-15,monsoon_or_wet,variable,Wet-season mobility and logistics sensitivity
+APAC,2023,2023-11-01,2023-12-31,year_end_peak,high,E-commerce and gifting peak season
+LATAM,2023,2023-12-01,2024-02-15,holiday_summer,high,Summer vacation and festive demand window
+MEA,2023,2023-03-01,2023-04-30,ramadan_eid,high,Religious-calendar-linked demand concentration
+North America,2024,2024-01-01,2024-03-15,winter,normal,Seasonal winter demand and mobility pattern
+North America,2024,2024-06-15,2024-08-31,summer,normal,Travel and outdoor activity peak
+Europe,2024,2024-01-01,2024-03-10,winter,normal,Winter retail and travel pattern
+Europe,2024,2024-06-10,2024-08-31,summer,normal,Cross-border holiday travel peak
+APAC,2024,2024-06-01,2024-09-15,monsoon_or_wet,variable,Wet-season mobility and logistics sensitivity
+APAC,2024,2024-11-01,2024-12-31,year_end_peak,high,E-commerce and gifting peak season
+LATAM,2024,2024-12-01,2025-02-15,holiday_summer,high,Summer vacation and festive demand window
+MEA,2024,2024-03-01,2024-04-30,ramadan_eid,high,Religious-calendar-linked demand concentration
+North America,2025,2025-01-01,2025-03-15,winter,normal,Seasonal winter demand and mobility pattern
+North America,2025,2025-06-15,2025-08-31,summer,normal,Travel and outdoor activity peak
+Europe,2025,2025-01-01,2025-03-10,winter,normal,Winter retail and travel pattern
+Europe,2025,2025-06-10,2025-08-31,summer,normal,Cross-border holiday travel peak
+APAC,2025,2025-06-01,2025-09-15,monsoon_or_wet,variable,Wet-season mobility and logistics sensitivity
+APAC,2025,2025-11-01,2025-12-31,year_end_peak,high,E-commerce and gifting peak season
+LATAM,2025,2025-12-01,2026-02-15,holiday_summer,high,Summer vacation and festive demand window
+MEA,2025,2025-03-01,2025-04-30,ramadan_eid,high,Religious-calendar-linked demand concentration
+North America,2026,2026-01-01,2026-03-15,winter,normal,Seasonal winter demand and mobility pattern
+North America,2026,2026-06-15,2026-08-31,summer,normal,Travel and outdoor activity peak
+Europe,2026,2026-01-01,2026-03-10,winter,normal,Winter retail and travel pattern
+Europe,2026,2026-06-10,2026-08-31,summer,normal,Cross-border holiday travel peak
+APAC,2026,2026-06-01,2026-09-15,monsoon_or_wet,variable,Wet-season mobility and logistics sensitivity
+APAC,2026,2026-11-01,2026-12-31,year_end_peak,high,E-commerce and gifting peak season
+LATAM,2026,2026-12-01,2027-02-15,holiday_summer,high,Summer vacation and festive demand window
+MEA,2026,2026-03-01,2026-04-30,ramadan_eid,high,Religious-calendar-linked demand concentration
